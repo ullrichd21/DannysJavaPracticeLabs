@@ -7,6 +7,7 @@ Some Labs I created to help practice Java!
   - Lab 02 - Roman Numeral Converter
   - Lab 03 - Dice Roller
   - Lab 04 - Rock Paper Scissors
+  - Lab 05 - Diagonal String
 ---
 #### Labs Created:
 - [x] Flip a String
@@ -14,7 +15,7 @@ Some Labs I created to help practice Java!
 - [x] Convert Roman Numeral to Integer & Integer to Roman Numeral
 - [x] Dice Roller (d20, d100, etc)
 - [x] Rock Paper Scissors Game
-- [ ] Print a String Diagonally
+- [x] Print a String Diagonally
 - [ ] High Low number guessing game
 - [ ] random password generator
 - [ ] Cows & Bulls game
