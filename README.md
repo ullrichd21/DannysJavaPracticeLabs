@@ -1,12 +1,12 @@
-# Dannys Java Practice Labs
-### Some Labs I created to help practice Java!
----
+## Dannys Java Practice Labs
+Some Labs I created to help practice Java!
+***
 #### Current Labs Available:
-  - ##### Lab 00 - Even or Odd
-  - ##### Lab 01 - String Flip
-  - ##### Lab 02 - Roman Numeral Converter
-  - ##### Lab 03 - Dice Roller
-  - ##### Lab 04 - Rock Paper Scissors
+  - Lab 00 - Even or Odd
+  - Lab 01 - String Flip
+  - Lab 02 - Roman Numeral Converter
+  - Lab 03 - Dice Roller
+  - Lab 04 - Rock Paper Scissors
 ---
 #### Labs Created:
 - [x] Flip a String
