@@ -8,6 +8,7 @@ Some Labs I created to help practice Java!
   - Lab 03 - Dice Roller
   - Lab 04 - Rock Paper Scissors
   - Lab 05 - Diagonal String
+  - Lab 06 - High Low Game
 ---
 #### Labs Created:
 - [x] Flip a String
@@ -16,7 +17,7 @@ Some Labs I created to help practice Java!
 - [x] Dice Roller (d20, d100, etc)
 - [x] Rock Paper Scissors Game
 - [x] Print a String Diagonally
-- [ ] High Low number guessing game
+- [x] High Low number guessing game
 - [ ] random password generator
 - [ ] Cows & Bulls game
 - [ ] Hangman
