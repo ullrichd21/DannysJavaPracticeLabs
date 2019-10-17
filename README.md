@@ -9,6 +9,7 @@ Some Labs I created to help practice Java!
   - Lab 04 - Rock Paper Scissors
   - Lab 05 - Diagonal String
   - Lab 06 - High Low Game
+  - Lab 07 - String Match
 ---
 #### Labs Created:
 - [x] Flip a String
@@ -23,7 +24,7 @@ Some Labs I created to help practice Java!
 - [ ] Hangman
 - [ ] Birthday Dictionary
 - [ ] Calculator
-- [ ] Check if two strings are the same, if not point to where they differ
+- [x] String Match
 - [ ] Decision Maker
 - [ ] GPA Calculator
 - [ ] Measurement Converter
