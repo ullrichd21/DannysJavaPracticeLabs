@@ -1,1 +1,1 @@
-java -classpath com $1
+java -classpath compiled $1
